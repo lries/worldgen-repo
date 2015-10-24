@@ -1,0 +1,19 @@
+[ANIMAL:heckler]
+[BIOMES:domestic]
+[TYPE:mammal]
+[STRUCTURE:
+LEGS:4,quad,claws,5 toes;
+ARMS:0;
+HEAD:1,snout,ears,2 eyes,sharp teeth;
+TORSO:1;
+TAIL:1;]
+[SOCIAL_STRUCTURE:
+FORM_PACK:3,5;
+LOW_PAIR_BONDS;
+SIBLING_RECOGNITION;]
+[AGGRESSIVE:never];
+[EATS_MEAT];[HUNTS:pests];
+[REPRODUCTIVE_CASTES:
+FEMALE:50:heckler;
+MALE:50:heckler;]
+[CHILD:heckler whelp]

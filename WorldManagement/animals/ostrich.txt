@@ -1,0 +1,20 @@
+[ANIMAL:ostrich]
+[BIOMES:warm,hot,semidry]
+[DOMAINS:sun,savannah,food,the hunt,the wilds,animals]
+[TYPE:bird]
+[SIZE:large]
+[FLIGHTLESS]
+[STRUCTURE:
+LEGS:2,biped,2 toes,claws;
+WINGS:2,feathers;
+ARMS:0;
+HEAD:1,beak,2 eyes;
+TORSO:1,feathers;
+TAIL:1;,feathers]
+[SOCIAL_STRUCTURE:
+FORM_PACK:5,10;
+SINGLE_PAIR_BOND;
+NON_MONOGAMOUS;
+NO_FAMILY;]
+[AGGRESSIVE:when_threatened]
+[EATS_PLANTS][EATS_INSECTS:small][HUNTS:none]

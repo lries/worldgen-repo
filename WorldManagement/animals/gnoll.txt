@@ -1,0 +1,16 @@
+[ANIMAL:gnoll]
+[BIOMES:warm,hot,semidry,dry]
+[TYPE:mammal]
+[SIZE:medium]
+[DOMAINS:all]
+[STRUCTURE:
+LEGS:2,biped,claws,5 toes;
+ARMS:2,biped,claws,4 fingers,1 thumb;
+HEAD:1,snout,ears,2 eyes,sharp teeth;
+TORSO:1,fur;
+TAIL:1,fur;]
+[SOCIAL_STRUCTURE:
+SOCIETY:gnoll;
+DO_NOT_SPAWN;]
+[AGGRESSIVE:only_serious_circumstances];
+[EATS_PLANTS];[EATS_MEAT:any];[HUNTS:any];

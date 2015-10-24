@@ -1,0 +1,17 @@
+[ANIMAL:brown hyena]
+[BIOMES:warm,hot,semidry,dry]
+[TYPE:reptile]
+[SIZE:medium_small]
+[DOMAINS:night,moon,death,life,reincarnation,shieldbonds,the wilds]
+[STRUCTURE:
+LEGS:4,quad,claws,5 toes;
+ARMS:0;
+HEAD:1,snout,ears,2 eyes,sharp teeth;
+TORSO:1,fur;
+TAIL:1,fur;]
+[SOCIAL_STRUCTURE:
+FORM_PACK:3,5;
+LOW_PAIR_BONDS;
+SISTER_RECOGNITION;]
+[AGGRESSIVE:only_serious_circumstances];
+[EATS_PLANTS];[EATS_MEAT:any];[HUNTS:only_small];

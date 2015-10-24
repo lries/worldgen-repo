@@ -1,0 +1,17 @@
+[ANIMAL:chameleon]
+[BIOMES:warm,hot,any_humidity]
+[DOMAINS:form,reincarnation,rebirth]
+[TYPE:reptile]
+[SIZE:very_small]
+[STRUCTURE:
+LEGS:4,quad;
+ARMS:0;
+HEAD:1,crest,2 eyes,sticky tongue,;
+TORSO:1,scales,crest;
+TAIL:1,curl;]
+[SOCIAL_STRUCTURE:
+FORM_PACK:1;
+NO_PAIR_BONDS;
+NO_FAMILY;]
+[AGGRESSIVE:never];
+[EATS_PLANTS];[EATS_INSECTS:very_small];[HUNTS:grubs]

@@ -1,0 +1,53 @@
+[SOCIETY:Gnoll]
+[SPECIES:gnoll]
+[DOMAINS:
+ASTRAL:sun,moon,stars,night,day,oceans,savannah;
+EXISTENCE:death,life,reincarnation,creation,birth,blood;
+NEGATIVE:death,misery,pain,suffering,miscarriage, infertility, punishment;
+CONSUMPTION:food,drink,farming,the hunt;
+UNITY:family,unity,clans,villages,shieldbonds;
+FORM:form,healing,reincarnation,rebirth,healing,birth,infertility,fertility;
+WILDS:savannah,the hunt,the wilds,animals]
+[RELIGIOUS_PREF: polytheism, shamanism]
+[BIOME_START: savannah]
+[ETHICS:
+MAKE_WAR_OWN:only_extreme_circumstances,punish_capital;
+MAKE_WAR_ALLY:only_extreme_circumstances,punish_exile;
+MAKE_WAR_NEUTRAL:only_self_defense,punish_exile;
+MAKE_WAR_ENEMY:okay,null;
+MAKE_SLAVES:never,punish_exile;
+KILL_OWN:only_self_defense,punish_exile;
+KILL_ALLY:only_self_defense,punish_exile;
+KILL_NEUTRAL:only_extreme_circumstance,punish_exile;
+KILL_ENEMY:okay,null;
+STEAL:only_serious_circumstances,punish_serious;
+CANNIBALISM:only_extreme_circumstances,punish_exile;
+EAT_OTHER_INTELLIGENT:only_self_defense,only_serious_circumstances;
+EAT_MEAT:normal,null;
+LYING:only_minor_circumstances,punish_minor;
+OATHBREAKING:only_self_defense,punish_serious;
+VANDALISM:only_serious_circumstances,punish_minor;
+TORTURE_OWN:never,punish_capital;
+TORTURE_ALLY:only_extreme_circumstances,punish_capital;
+TORTURE_FUN_INTELLIGENT:never,punish_capital;
+TORTURE_SERIOUS_INTELLIGENT:only_extreme_circumstances,punish_exile;
+TORTURE_ANIMAL:only_serious_circumstances,punish_severe;
+HOMOSEXUALITY:normal,null;
+TRANSGENDERISM:religious_matter,null;
+REPRODUCE_OUTSIDE_RELATIONSHIP:normal,null;
+QUESTION_AUTHORITY:only_minor_circumstances,punish_minor;]
+[ETHICAL_DOMAINS:
+TRANSGENDERISM:rebirth,form,healing,sun,day]
+]
+[MANDATORY_DOMAINS:sun,clans,blood]
+[SOCIAL_STRUCTURE:egalitarian,shieldsiblings,low_romance,nonmonogamous]
+[REPRODUCTIVE_CASTES:
+FEMALE_L:45,female;
+MALE_L:45,male;
+NONREPRDUCTIVE_L:10,none;]
+[GENDER_CASTES:
+AS_REPRODUCTIVE:95;
+OPPOSITE_REPRODUCTIVE:3;
+NONE:2;
+]
+[DOMESTICATION:heckler]

@@ -1,0 +1,46 @@
+[SOCIETY:Kwomo]
+[DOMAINS:
+ASTRAL:sun, moon, stars, night, day, oceans;
+EXISTENCE: life, creation, birth;
+NEGATIVE: death, misery, pain, suffering, miscarriage, infertility, punishment;
+CONSUMPTION: food, drink, farming;
+UNITY: family, unity, clans, villages;
+[WILDS: forest, the wilds, animals]
+[RELIGIOUS_PREF: polytheism, shamanism]
+[BIOME_START: forest]
+[BIOME_PREF: temperate, warm, semiwet]
+[ETHICS:
+MAKE_WAR_OWN:punish_exile;
+MAKE_WAR_ALLY:punish_exile;
+MAKE_WAR_NEUTRAL:punish_exile;
+MAKE_WAR_ENEMY:punish_exile;
+MAKE_SLAVES:punish_exile;
+KILL_OWN:punish_exile;
+KILL_ALLY:punish_exile;
+KILL_NEUTRAL:punish_exile;
+KILL_ENEMY:punish_exile;
+STEAL:normal;
+CANNIBALISM:punish_exile;
+EAT_OTHER_INTELLIGENT:punish_exile;
+EAT_MEAT:punish_exile;
+LYING:only_minor_circumstances;
+VANDALISM: only_minor_circumstances;
+TORTURE_OWN:punish_exile;
+TORTURE_ALLY:punish_exile;
+TORTURE_FUN_INTELLIGENT:punish_exile;
+TORTURE_SERIOUS_INTELLIGENT:punish_exile;
+TORTURE_ANIMAL:punish_exile;
+HOMOSEXUALITY:normal;
+TRANSGENDERISM:religious_matter;
+REPRODUCE_OUTSIDE_RELATIONSHIP:normal;
+QUESTION_AUTHORITY:only_minor_circumstances;]
+[SOCIAL_STRUCTURE:egalitarian,communist]
+[REPRODUCTIVE_CASTES:
+FEMALE:45,female;
+MALE:45,male;
+NONREPRODUCTIVE:10;]
+[GENDER_CASTES:
+AS_REPRODUCTIVE:95;
+OPPOSITE_REPRODUCTIVE:3;
+NONE:2;
+]

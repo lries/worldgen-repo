@@ -1,0 +1,18 @@
+[ANIMAL:zebra]
+[BIOMES:warm,hot,semidry]
+[DOMAINS:sun,savannah,food,the hunt,the wilds,animals]
+[TYPE:mammal]
+[SIZE:large]
+[STRUCTURE:
+LEGS:4,quad,hoof;
+ARMS:0;
+HEAD:1,snout,2 eye;
+TORSO:1;
+TAIL:1,tuft;]
+[SOCIAL_STRUCTURE:
+FORM_PACK:5,10;
+SINGLE_PAIR_BOND;
+NON_MONOGAMOUS;
+NO_FAMILY;]
+[AGGRESSIVE:when_threatened]
+[EATS_PLANTS][EATS_INSECTS:small][HUNTS:none]

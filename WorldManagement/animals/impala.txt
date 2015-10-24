@@ -1,0 +1,17 @@
+[ANIMAL:impala]
+[BIOMES:warm,hot,semidry]
+[DOMAINS:sun,savannah,food,the hunt,the wilds,animals]
+[TYPE:mammal]
+[SIZE:large]
+[STRUCTURE:
+LEGS:4,quad,hoof;
+ARMS:0;
+HEAD:1,snout,#male horns,2 eyes;
+TORSO:1;
+TAIL:1,tuft;]
+[SOCIAL_STRUCTURE:
+FORM_PACK:5,7;
+NO_PAIR_BONDS;
+NO_FAMILY;]
+[AGGRESSIVE:never]
+[HERBIVORE][HUNTS:none]
